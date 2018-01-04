@@ -1,0 +1,463 @@
+    #container {
+        width: 960px;
+        margin: 0px auto;
+    }
+    body {
+        background-color: #7DABCB;
+        ;
+        padding: 2em;
+    }
+    main#content {
+        background-color: #FCDD33;
+        padding: 3em;
+        border-radius: 2em;
+        overflow: auto;
+    }
+    #logo {
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+        clear: both;
+    }
+    div#date {
+        text-align: center;
+        padding-top: 1em;
+        padding-bottom: 1em;
+        font-family: "Courier New", Courier, monospace;
+        font-size: 1.5em;
+    }
+    label {
+        font-family: "Courier New", Courier, monospace;
+    }
+    ul,
+    menu,
+    dir {
+        font-family: "Courier New", Courier, monospace;
+    }
+    /* common links*/
+    
+    a#menubutton {
+        float: left;
+    }
+    a#logoutbutton {
+        float: left;
+    }
+    a#menubutton.round-button {
+        display: block;
+        width: 75px;
+        height: 75px;
+        line-height: 75px;
+        border: 2px solid #FCDD33;
+        border-radius: 50%;
+        color: #f5f5f5;
+        text-align: center;
+        font-size: 15px;
+        background-color: cadetblue;
+        font-family: "Courier New", Courier, monospace;
+    }
+    a#menubutton.round-button:hover {
+        background: #262626;
+    }
+    a#logoutbutton.round-button {
+        display: block;
+        width: 75px;
+        height: 75px;
+        line-height: 75px;
+        border: 2px solid #FCDD33;
+        border-radius: 50%;
+        color: #f5f5f5;
+        text-align: center;
+        font-size: 15px;
+        background-color: cadetblue;
+        font-family: "Courier New", Courier, monospace;
+    }
+    a#logoutbutton.round-button:hover {
+        background: #262626;
+    }
+    /*login page*/
+    
+    fieldset {
+        border-color: #FA1A94;
+        border-radius: 2em;
+        padding: 1em;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    legend {
+        font-size: 1em;
+        font-family: "Courier New", Courier, monospace;
+    }
+    p {
+        font-family: "Courier New", Courier, monospace;
+    }
+    form#uselogin {
+        width: 40%;
+        margin: 0 auto;
+        text-align: center;
+    }
+    #errorcredentials {
+        color: #F20587;
+        font-family: "Courier New", Courier, monospace;
+        font-size: 1.5em;
+        text-align: center;
+        margin-bottom: 0.5em;
+        margin-top: 0.5em;
+    }
+    /* menu page*/
+    
+    .round-button {
+        display: block;
+        width: 111px;
+        height: 111px;
+        line-height: 100px;
+        border: 2px;
+        border-radius: 50%;
+        color: #f5f5f5;
+        text-align: center;
+        font-size: 15px;
+        background-color: cadetblue;
+        font-family: "Courier New", Courier, monospace;
+    }
+    .round-button:hover {
+        background: #262626;
+    }
+    a#button1.round-button {
+        float: left
+    }
+    a#button2.round-button {
+        float: left;
+        float: left;
+        margin-left: 1em;
+        margin-right: 1em;
+    }
+    div#buttonsid1 {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-family: "Courier New", Courier, monospace;
+    }
+    /*Admin menu page*/
+    
+    a#button3.round-button {
+        float: left;
+    }
+    div#buttonsid {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-family: "Courier New", Courier, monospace;
+    }
+    div.forms {
+        margin-bottom: 1em;
+        margin-top: 1em;
+        font-size: 1em;
+    }
+    div.divform {
+        margin-bottom: 2em;
+        margin-top: 2em;
+    }
+    /* Admin user page*/
+    
+    button.round-button {
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 1em;
+        font-family: "Courier New", Courier, monospace;
+    }
+    div#activeusers {
+        width: 15%;
+        background-color: palegoldenrod;
+        padding: 1em;
+        border-radius: 2em;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    /*Report page*/
+    
+    form#reportDate {
+        margin-left: auto;
+        margin-right: auto;
+        width: 40%;
+    }
+    /* Classroom gallery photos*/
+    
+    h1 {
+        text-align: center;
+        font-family: monospace;
+    }
+    div.pupilGallery {
+        margin-left: 2em;
+        margin-bottom: 2em;
+        float: left;
+        width: 180px;
+        display: block;
+        background-color: #BAEDD6;
+        font-family: "Courier New", Courier, monospace;
+        border-radius: 2em;
+        padding: 1em;
+    }
+    select {
+        width: 100%;
+        height: 34px;
+        overflow: hidden;
+        background: rgba(255, 240, 59, 0.97);
+        font-size: 1.2em;
+        font-family: monospace;
+        border: #CDDC39;
+        color: #333D3D;
+    }
+    div.gallery:hover {
+        border: 1px solid #777;
+    }
+    div.pupilGallery img {
+        width: 100%;
+        height: 80%;
+        border-radius: 2em;
+    }
+    div.photobox {
+        height: 160px;
+    }
+    div.pupilname {
+        padding: 15px;
+        text-align: center;
+    }
+    div#lunchdiv {
+        text-align: center;
+        color: #EA2D2E;
+        margin-top: 0.5em;
+        font-size: large;
+    }
+    div.pupilOptions2 {
+        margin-bottom: 1em;
+    }
+    #submitbutton {
+        display: block;
+        width: 110px;
+        height: 110px;
+        line-height: 100px;
+        border: 2px solid #FCDD33;
+        border-radius: 50%;
+        color: #f5f5f5;
+        text-align: center;
+        font-size: 15px;
+        background-color: cadetblue;
+        margin-top: 1em;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    #submitbutton:hover {
+        background: #262626;
+    }
+    div#gallerydivbutton {
+        width: 100%;
+        float: left;
+    }
+    /* Admin page forms*/
+    
+    div.inputForm {
+        padding: 1em;
+    }
+    legend.inputForm {
+        padding: 1em;
+    }
+    section.formbox {
+        width: 30%;
+        float: left;
+    }
+    form#registerNewUser {
+        float: left;
+        width: 30%;
+        margin-right: 2em;
+        margin-left: 5em;
+    }
+    form#updateuser {
+        float: left;
+        margin-right: 2em;
+    }
+    div.listusers {
+        margin-right: 5em;
+    }
+    div#activeusers {
+        width: 63%;
+        background-color: red;
+        margin: 0 auto;
+        text-align: center;
+        margin-top: 2em;
+        padding: 1em;
+        border-radius: 2em;
+    }
+    form#listusers {
+        width: 20%;
+        float: left;
+        background-color: #ABABAB;
+        padding: 2em;
+        border-radius: 2em;
+    }
+    form#listPupils {
+        width: 20%;
+        float: left;
+        background-color: #ABABAB;
+        padding: 2em;
+        border-radius: 2em;
+    }
+    form#updatepupil {
+        float: left;
+        margin-right: 2em;
+        width: 30%;
+    }
+    form#registerNewChild {
+        float: left;
+        width: 30%;
+        margin-right: 2em;
+        margin-left: 3em;
+    }
+    section#classroomButtons {
+        float: right;
+        margin-right: 3em;
+    }
+    input.miniroudbutton {
+        display: block;
+        width: 75px;
+        height: 75px;
+        line-height: 75px;
+        border: 2px solid #FCDD33;
+        border-radius: 50%;
+        color: #f5f5f5;
+        text-align: center;
+        font-size: 15px;
+        background-color: cadetblue;
+        font-family: "Courier New", Courier, monospace;
+        margin: 0 auto;
+    }
+    input.miniroudbutton:hover {
+        background: #262626;
+    }
+    /*Report table*/
+    
+    caption {
+        margin-bottom: 2em;
+        font-family: "Courier New", Courier, monospace;
+        font-size: 1.25em;
+    }
+    table,
+    th,
+    td {
+        border: 1px solid black;
+    }
+    table {
+        font-family: "Courier New", Courier, monospace;
+        border-collapse: collapse;
+        width: 100%;
+    }
+    td,
+    th {
+        border: 1px solid #FA1A94;
+        text-align: left;
+        padding: 8px;
+        font-family: "Courier New", Courier, monospace;
+        font-size: large;
+    }
+    tr:nth-child(even) {
+        background-color: #F5FFFD;
+    }
+    input#printbutton {
+        margin-left: auto;
+        margin-right: auto;
+        font-family: "Courier New", Courier, monospace;
+        margin-top: 2em
+    }
+    /*cook page*/
+    
+    input.miniroudbutton1 {
+        display: block;
+        width: 75px;
+        height: 75px;
+        line-height: 75px;
+        border: 2px solid #FCDD33;
+        border-radius: 50%;
+        color: #f5f5f5;
+        text-align: center;
+        font-size: 15px;
+        background-color: cadetblue;
+        font-family: "Courier New", Courier, monospace;
+        margin: 0 auto;
+    }
+    input.miniroudbutton:hover {
+        background: #262626;
+    }
+    /*
+Footer*/
+    
+    div#footer {
+    font-family: "Courier New", Courier, monospace;
+    text-align: center;
+    clear: both;
+    padding-top: 5em;
+    }
+    /* Media Querys*/
+    
+    @media screen and (max-width: 1171px) {
+        form#registerNewUser {
+            float: left;
+            width: 33%;
+            margin-right: 1%;
+            margin-left: 1%;
+        }
+        form#updateuser {
+            float: left;
+            margin-right: 6%;
+            margin-left: 1%;
+            width: 30%;
+        }
+        form#listusers {
+            width: 20%;
+            float: right;
+            background-color: #ABABAB;
+            padding: 2%;
+            margin-right: 1%;
+        }
+        form#updatepupil {
+            float: left;
+            margin-right: 6%;
+            margin-left: 1%;
+            width: 30%;
+        }
+        form#registerNewChild {
+            float: left;
+            width: 35%;
+            margin-right: 1%;
+            margin-left: 1%;
+        }
+        form#listPupils {
+            width: 18%;
+            float: right;
+            background-color: #ABABAB;
+            padding: 2%;
+            margin-right: 1%;
+        }
+        div.pupilGallery {
+            margin-right: 39px;
+            margin-left: 20px;
+            margin-bottom: 2em;
+            float: left;
+            width: 122px;
+            display: block;
+            background-color: #CDDC39;
+            font-family: "Courier New", Courier, monospace;
+            border-radius: 1em;
+            padding: 0.5em;
+        }
+        div.pupilGallery img {
+            width: 100%;
+            height: 80%;
+            border-radius: 2em;
+        }
+        div.pupilname {
+            padding-top: 0.5em;
+            text-align: center;
+            padding-bottom: 0.5em;
+        }
+        div.photobox {
+            height: 130px;
+        }
+    }

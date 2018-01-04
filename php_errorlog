@@ -1,0 +1,192 @@
+[02-Apr-2017 06:16:09 CST6CDT] PHP Fatal error:  Call to undefined method PDOStatement::close() in /home/iotops27/public_html/anaproject/admin.php on line 19
+[02-Apr-2017 06:16:53 CST6CDT] PHP Fatal error:  Call to undefined method PDOStatement::query() in /home/iotops27/public_html/anaproject/login.php on line 14
+[02-Apr-2017 06:17:29 CST6CDT] PHP Fatal error:  Call to undefined method PDOStatement::close() in /home/iotops27/public_html/anaproject/admin.php on line 19
+[02-Apr-2017 06:18:50 CST6CDT] PHP Fatal error:  Call to undefined method PDOStatement::query() in /home/iotops27/public_html/anaproject/login.php on line 14
+[02-Apr-2017 06:24:51 CST6CDT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in /home/iotops27/public_html/anaproject/admin.php:8
+Stack trace:
+#0 /home/iotops27/public_html/anaproject/admin.php(8): PDO->__construct('mysql:host=loca...', 'root', 'root')
+#1 {main}
+  thrown in /home/iotops27/public_html/anaproject/admin.php on line 8
+[02-Apr-2017 06:26:10 CST6CDT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in /home/iotops27/public_html/anaproject/admin.php:8
+Stack trace:
+#0 /home/iotops27/public_html/anaproject/admin.php(8): PDO->__construct('mysql:host=loca...', 'root', 'root')
+#1 {main}
+  thrown in /home/iotops27/public_html/anaproject/admin.php on line 8
+[02-Apr-2017 06:31:16 CST6CDT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in /home/iotops27/public_html/anaproject/admin.php:8
+Stack trace:
+#0 /home/iotops27/public_html/anaproject/admin.php(8): PDO->__construct('mysql:host=loca...', 'root', 'root')
+#1 {main}
+  thrown in /home/iotops27/public_html/anaproject/admin.php on line 8
+[02-Apr-2017 06:35:44 CST6CDT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in /home/iotops27/public_html/anaproject/admin.php:8
+Stack trace:
+#0 /home/iotops27/public_html/anaproject/admin.php(8): PDO->__construct('mysql:host=loca...', 'root', 'root')
+#1 {main}
+  thrown in /home/iotops27/public_html/anaproject/admin.php on line 8
+[02-Apr-2017 06:36:02 CST6CDT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in /home/iotops27/public_html/anaproject/admin.php:8
+Stack trace:
+#0 /home/iotops27/public_html/anaproject/admin.php(8): PDO->__construct('mysql:host=loca...', 'root', 'root')
+#1 {main}
+  thrown in /home/iotops27/public_html/anaproject/admin.php on line 8
+[02-Apr-2017 06:36:18 CST6CDT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in /home/iotops27/public_html/anaproject/admin.php:8
+Stack trace:
+#0 /home/iotops27/public_html/anaproject/admin.php(8): PDO->__construct('mysql:host=loca...', 'root', 'root')
+#1 {main}
+  thrown in /home/iotops27/public_html/anaproject/admin.php on line 8
+[02-Apr-2017 06:36:18 CST6CDT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in /home/iotops27/public_html/anaproject/admin.php:8
+Stack trace:
+#0 /home/iotops27/public_html/anaproject/admin.php(8): PDO->__construct('mysql:host=loca...', 'root', 'root')
+#1 {main}
+  thrown in /home/iotops27/public_html/anaproject/admin.php on line 8
+[02-Apr-2017 06:36:59 CST6CDT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in /home/iotops27/public_html/anaproject/admin.php:8
+Stack trace:
+#0 /home/iotops27/public_html/anaproject/admin.php(8): PDO->__construct('mysql:host=loca...', 'root', 'root')
+#1 {main}
+  thrown in /home/iotops27/public_html/anaproject/admin.php on line 8
+[02-Apr-2017 06:40:37 CST6CDT] PHP Fatal error:  Call to a member function prepare() on null in /home/iotops27/public_html/anaproject/admin.php on line 11
+[02-Apr-2017 07:07:24 CST6CDT] PHP Parse error:  syntax error, unexpected 'Lastname' (T_STRING), expecting ']' in /home/iotops27/public_html/anaproject/admin.php on line 16
+[02-Apr-2017 07:12:18 CST6CDT] PHP Fatal error:  Call to a member function prepare() on null in /home/iotops27/public_html/anaproject/admin.php on line 28
+[02-Apr-2017 11:38:22 CST6CDT] PHP Parse error:  syntax error, unexpected '}' in /home/iotops27/public_html/anaproject/classroom.php on line 10
+[02-Apr-2017 11:45:14 CST6CDT] PHP Parse error:  syntax error, unexpected '}' in /home/iotops27/public_html/anaproject/classroom.php on line 10
+[02-Apr-2017 11:45:16 CST6CDT] PHP Parse error:  syntax error, unexpected '}' in /home/iotops27/public_html/anaproject/classroom.php on line 10
+[02-Apr-2017 11:45:50 CST6CDT] PHP Parse error:  syntax error, unexpected '}' in /home/iotops27/public_html/anaproject/classroom.php on line 10
+[02-Apr-2017 11:47:58 CST6CDT] PHP Parse error:  syntax error, unexpected '=' in /home/iotops27/public_html/anaproject/classroom.php on line 48
+[02-Apr-2017 11:48:44 CST6CDT] PHP Parse error:  syntax error, unexpected '=' in /home/iotops27/public_html/anaproject/classroom.php on line 51
+[02-Apr-2017 11:49:05 CST6CDT] PHP Fatal error:  Uncaught exception 'PDOException' with message 'invalid data source name' in /home/iotops27/public_html/anaproject/classroom.php:16
+Stack trace:
+#0 /home/iotops27/public_html/anaproject/classroom.php(16): PDO->__construct('')
+#1 {main}
+  thrown in /home/iotops27/public_html/anaproject/classroom.php on line 16
+[02-Apr-2017 12:01:09 CST6CDT] PHP Fatal error:  Call to undefined method PDOStatement::query() in /home/iotops27/public_html/anaproject/login.php on line 14
+[02-Apr-2017 12:01:28 CST6CDT] PHP Fatal error:  Call to undefined method PDOStatement::query() in /home/iotops27/public_html/anaproject/login.php on line 14
+[02-Apr-2017 12:20:46 CST6CDT] PHP Fatal error:  Call to undefined method PDOStatement::query() in /home/iotops27/public_html/anaproject/login.php on line 14
+[02-Apr-2017 12:20:49 CST6CDT] PHP Fatal error:  Call to undefined method PDOStatement::query() in /home/iotops27/public_html/anaproject/login.php on line 14
+[23-Apr-2017 08:06:49 CST6CDT] PHP Parse error:  syntax error, unexpected '$_POST' (T_VARIABLE) in /home/iotops27/public_html/anaproject/adminpupil.php on line 54
+[23-Apr-2017 08:28:48 CST6CDT] PHP Parse error:  syntax error, unexpected '(' in /home/iotops27/public_html/anaproject/adminpupil.php on line 16
+[23-Apr-2017 08:28:49 CST6CDT] PHP Parse error:  syntax error, unexpected '(' in /home/iotops27/public_html/anaproject/adminpupil.php on line 16
+[23-Apr-2017 08:31:03 CST6CDT] PHP Parse error:  syntax error, unexpected '(' in /home/iotops27/public_html/anaproject/adminpupil.php on line 45
+[24-Apr-2017 15:13:22 CST6CDT] PHP Fatal error:  Call to a member function prepare() on null in /home/iotops27/public_html/anaproject/adminpupil.php on line 82
+[24-Apr-2017 15:17:23 CST6CDT] PHP Fatal error:  Call to a member function prepare() on null in /home/iotops27/public_html/anaproject/adminpupil.php on line 82
+[24-Apr-2017 15:18:09 CST6CDT] PHP Fatal error:  Call to a member function prepare() on null in /home/iotops27/public_html/anaproject/adminpupil.php on line 85
+[24-Apr-2017 15:18:13 CST6CDT] PHP Fatal error:  Call to a member function prepare() on null in /home/iotops27/public_html/anaproject/adminpupil.php on line 85
+[26-Apr-2017 13:36:47 CST6CDT] PHP Notice:  Undefined index: id in /home/iotops27/public_html/anaproject/classroom.php on line 14
+[26-Apr-2017 13:36:48 CST6CDT] PHP Notice:  Undefined index: id in /home/iotops27/public_html/anaproject/classroom.php on line 14
+[27-Apr-2017 01:06:38 CST6CDT] PHP Notice:  Use of undefined constant i - assumed 'i' in /home/iotops27/public_html/anaproject/adminpupil.php on line 18
+[27-Apr-2017 01:06:38 CST6CDT] PHP Notice:  Undefined variable: a_firstname in /home/iotops27/public_html/anaproject/admin1.php on line 231
+[27-Apr-2017 01:06:38 CST6CDT] PHP Notice:  Undefined variable: a_lastname in /home/iotops27/public_html/anaproject/admin1.php on line 235
+[27-Apr-2017 01:06:38 CST6CDT] PHP Notice:  Undefined offset: 1 in /home/iotops27/public_html/anaproject/adminpupil.php on line 341
+[27-Apr-2017 01:06:38 CST6CDT] PHP Notice:  Undefined variable: a_username in /home/iotops27/public_html/anaproject/admin1.php on line 239
+[27-Apr-2017 01:06:38 CST6CDT] PHP Notice:  Undefined variable: a_password in /home/iotops27/public_html/anaproject/admin1.php on line 243
+[27-Apr-2017 01:06:38 CST6CDT] PHP Notice:  Undefined offset: 2 in /home/iotops27/public_html/anaproject/adminpupil.php on line 350
+[27-Apr-2017 01:06:38 CST6CDT] PHP Notice:  Undefined offset: 3 in /home/iotops27/public_html/anaproject/adminpupil.php on line 358
+[27-Apr-2017 01:06:38 CST6CDT] PHP Notice:  Undefined offset: 4 in /home/iotops27/public_html/anaproject/adminpupil.php on line 366
+[27-Apr-2017 01:06:38 CST6CDT] PHP Notice:  Undefined offset: 5 in /home/iotops27/public_html/anaproject/adminpupil.php on line 374
+[27-Apr-2017 01:06:38 CST6CDT] PHP Notice:  Undefined variable: isActive in /home/iotops27/public_html/anaproject/adminpupil.php on line 381
+[27-Apr-2017 06:36:38 CST6CDT] PHP Notice:  Undefined index: id in /home/iotops27/public_html/anaproject/classroom.php on line 14
+[27-Apr-2017 15:37:36 CST6CDT] PHP Notice:  Undefined variable: a_firstname in /home/iotops27/public_html/anaproject/admin1.php on line 231
+[27-Apr-2017 15:37:36 CST6CDT] PHP Notice:  Undefined variable: a_lastname in /home/iotops27/public_html/anaproject/admin1.php on line 235
+[27-Apr-2017 15:37:36 CST6CDT] PHP Notice:  Undefined variable: a_username in /home/iotops27/public_html/anaproject/admin1.php on line 239
+[27-Apr-2017 15:37:36 CST6CDT] PHP Notice:  Undefined variable: a_password in /home/iotops27/public_html/anaproject/admin1.php on line 243
+[27-Apr-2017 15:37:36 CST6CDT] PHP Notice:  Use of undefined constant i - assumed 'i' in /home/iotops27/public_html/anaproject/adminpupil.php on line 18
+[27-Apr-2017 15:37:36 CST6CDT] PHP Notice:  Undefined offset: 1 in /home/iotops27/public_html/anaproject/adminpupil.php on line 341
+[27-Apr-2017 15:37:36 CST6CDT] PHP Notice:  Undefined offset: 2 in /home/iotops27/public_html/anaproject/adminpupil.php on line 350
+[27-Apr-2017 15:37:36 CST6CDT] PHP Notice:  Undefined offset: 3 in /home/iotops27/public_html/anaproject/adminpupil.php on line 358
+[27-Apr-2017 15:37:36 CST6CDT] PHP Notice:  Undefined offset: 4 in /home/iotops27/public_html/anaproject/adminpupil.php on line 366
+[27-Apr-2017 15:37:36 CST6CDT] PHP Notice:  Undefined offset: 5 in /home/iotops27/public_html/anaproject/adminpupil.php on line 374
+[27-Apr-2017 15:37:36 CST6CDT] PHP Notice:  Undefined variable: isActive in /home/iotops27/public_html/anaproject/adminpupil.php on line 381
+[27-Apr-2017 16:31:29 CST6CDT] PHP Notice:  Use of undefined constant i - assumed 'i' in /home/iotops27/public_html/anaproject/adminpupil.php on line 18
+[27-Apr-2017 16:31:29 CST6CDT] PHP Notice:  Undefined offset: 1 in /home/iotops27/public_html/anaproject/adminpupil.php on line 341
+[27-Apr-2017 16:31:29 CST6CDT] PHP Notice:  Undefined offset: 2 in /home/iotops27/public_html/anaproject/adminpupil.php on line 350
+[27-Apr-2017 16:31:29 CST6CDT] PHP Notice:  Undefined offset: 3 in /home/iotops27/public_html/anaproject/adminpupil.php on line 358
+[27-Apr-2017 16:31:29 CST6CDT] PHP Notice:  Undefined offset: 4 in /home/iotops27/public_html/anaproject/adminpupil.php on line 366
+[27-Apr-2017 16:31:29 CST6CDT] PHP Notice:  Undefined offset: 5 in /home/iotops27/public_html/anaproject/adminpupil.php on line 374
+[27-Apr-2017 16:31:29 CST6CDT] PHP Notice:  Undefined variable: isActive in /home/iotops27/public_html/anaproject/adminpupil.php on line 381
+[27-Apr-2017 16:33:01 CST6CDT] PHP Notice:  Use of undefined constant i - assumed 'i' in /home/iotops27/public_html/anaproject/adminpupil.php on line 18
+[27-Apr-2017 16:33:01 CST6CDT] PHP Notice:  Undefined offset: 1 in /home/iotops27/public_html/anaproject/adminpupil.php on line 341
+[27-Apr-2017 16:33:01 CST6CDT] PHP Notice:  Undefined offset: 2 in /home/iotops27/public_html/anaproject/adminpupil.php on line 350
+[27-Apr-2017 16:33:01 CST6CDT] PHP Notice:  Undefined offset: 3 in /home/iotops27/public_html/anaproject/adminpupil.php on line 358
+[27-Apr-2017 16:33:01 CST6CDT] PHP Notice:  Undefined offset: 4 in /home/iotops27/public_html/anaproject/adminpupil.php on line 366
+[27-Apr-2017 16:33:01 CST6CDT] PHP Notice:  Undefined offset: 5 in /home/iotops27/public_html/anaproject/adminpupil.php on line 374
+[27-Apr-2017 16:33:01 CST6CDT] PHP Notice:  Undefined variable: isActive in /home/iotops27/public_html/anaproject/adminpupil.php on line 381
+[27-Apr-2017 16:33:21 CST6CDT] PHP Notice:  Use of undefined constant i - assumed 'i' in /home/iotops27/public_html/anaproject/adminpupil.php on line 18
+[27-Apr-2017 16:33:21 CST6CDT] PHP Notice:  Undefined offset: 1 in /home/iotops27/public_html/anaproject/adminpupil.php on line 341
+[27-Apr-2017 16:33:21 CST6CDT] PHP Notice:  Undefined offset: 2 in /home/iotops27/public_html/anaproject/adminpupil.php on line 350
+[27-Apr-2017 16:33:21 CST6CDT] PHP Notice:  Undefined offset: 3 in /home/iotops27/public_html/anaproject/adminpupil.php on line 358
+[27-Apr-2017 16:33:21 CST6CDT] PHP Notice:  Undefined offset: 4 in /home/iotops27/public_html/anaproject/adminpupil.php on line 366
+[27-Apr-2017 16:33:21 CST6CDT] PHP Notice:  Undefined offset: 5 in /home/iotops27/public_html/anaproject/adminpupil.php on line 374
+[27-Apr-2017 16:33:21 CST6CDT] PHP Notice:  Undefined variable: isActive in /home/iotops27/public_html/anaproject/adminpupil.php on line 381
+[27-Apr-2017 16:33:38 CST6CDT] PHP Notice:  Use of undefined constant i - assumed 'i' in /home/iotops27/public_html/anaproject/adminpupil.php on line 18
+[27-Apr-2017 16:33:38 CST6CDT] PHP Notice:  Undefined offset: 1 in /home/iotops27/public_html/anaproject/adminpupil.php on line 341
+[27-Apr-2017 16:33:38 CST6CDT] PHP Notice:  Undefined offset: 2 in /home/iotops27/public_html/anaproject/adminpupil.php on line 350
+[27-Apr-2017 16:33:38 CST6CDT] PHP Notice:  Undefined offset: 3 in /home/iotops27/public_html/anaproject/adminpupil.php on line 358
+[27-Apr-2017 16:33:38 CST6CDT] PHP Notice:  Undefined offset: 4 in /home/iotops27/public_html/anaproject/adminpupil.php on line 366
+[27-Apr-2017 16:33:38 CST6CDT] PHP Notice:  Undefined offset: 5 in /home/iotops27/public_html/anaproject/adminpupil.php on line 374
+[27-Apr-2017 16:33:38 CST6CDT] PHP Notice:  Undefined variable: isActive in /home/iotops27/public_html/anaproject/adminpupil.php on line 381
+[27-Apr-2017 16:33:40 CST6CDT] PHP Notice:  Use of undefined constant i - assumed 'i' in /home/iotops27/public_html/anaproject/adminpupil.php on line 18
+[27-Apr-2017 16:33:40 CST6CDT] PHP Notice:  Undefined offset: 2 in /home/iotops27/public_html/anaproject/adminpupil.php on line 342
+[27-Apr-2017 16:33:40 CST6CDT] PHP Notice:  Undefined offset: 3 in /home/iotops27/public_html/anaproject/adminpupil.php on line 343
+[27-Apr-2017 16:33:40 CST6CDT] PHP Notice:  Undefined offset: 4 in /home/iotops27/public_html/anaproject/adminpupil.php on line 344
+[27-Apr-2017 16:33:40 CST6CDT] PHP Notice:  Undefined offset: 2 in /home/iotops27/public_html/anaproject/adminpupil.php on line 351
+[27-Apr-2017 16:33:40 CST6CDT] PHP Notice:  Undefined offset: 3 in /home/iotops27/public_html/anaproject/adminpupil.php on line 352
+[27-Apr-2017 16:33:40 CST6CDT] PHP Notice:  Undefined offset: 4 in /home/iotops27/public_html/anaproject/adminpupil.php on line 353
+[27-Apr-2017 16:33:40 CST6CDT] PHP Notice:  Undefined offset: 2 in /home/iotops27/public_html/anaproject/adminpupil.php on line 359
+[27-Apr-2017 16:33:40 CST6CDT] PHP Notice:  Undefined offset: 3 in /home/iotops27/public_html/anaproject/adminpupil.php on line 360
+[27-Apr-2017 16:33:40 CST6CDT] PHP Notice:  Undefined offset: 4 in /home/iotops27/public_html/anaproject/adminpupil.php on line 361
+[27-Apr-2017 16:33:40 CST6CDT] PHP Notice:  Undefined offset: 2 in /home/iotops27/public_html/anaproject/adminpupil.php on line 367
+[27-Apr-2017 16:33:40 CST6CDT] PHP Notice:  Undefined offset: 3 in /home/iotops27/public_html/anaproject/adminpupil.php on line 368
+[27-Apr-2017 16:33:40 CST6CDT] PHP Notice:  Undefined offset: 4 in /home/iotops27/public_html/anaproject/adminpupil.php on line 369
+[27-Apr-2017 16:33:40 CST6CDT] PHP Notice:  Undefined offset: 2 in /home/iotops27/public_html/anaproject/adminpupil.php on line 375
+[27-Apr-2017 16:33:40 CST6CDT] PHP Notice:  Undefined offset: 3 in /home/iotops27/public_html/anaproject/adminpupil.php on line 376
+[27-Apr-2017 16:33:40 CST6CDT] PHP Notice:  Undefined offset: 4 in /home/iotops27/public_html/anaproject/adminpupil.php on line 377
+[27-Apr-2017 16:36:07 CST6CDT] PHP Notice:  Undefined variable: isActive in /home/iotops27/public_html/anaproject/adminpupil.php on line 381
+[27-Apr-2017 16:36:08 CST6CDT] PHP Notice:  Undefined variable: isActive in /home/iotops27/public_html/anaproject/adminpupil.php on line 381
+[27-Apr-2017 17:07:52 CST6CDT] PHP Notice:  Undefined variable: isActive in /home/iotops27/public_html/anaproject/adminpupil.php on line 397
+[27-Apr-2017 17:14:44 CST6CDT] PHP Notice:  Undefined variable: isActive in /home/iotops27/public_html/anaproject/adminpupil.php on line 397
+[27-Apr-2017 17:16:35 CST6CDT] PHP Notice:  Undefined variable: isActive in /home/iotops27/public_html/anaproject/adminpupil.php on line 397
+[27-Apr-2017 17:19:29 CST6CDT] PHP Notice:  Undefined variable: isActive in /home/iotops27/public_html/anaproject/adminpupil.php on line 397
+[27-Apr-2017 17:19:30 CST6CDT] PHP Notice:  Undefined variable: isActive in /home/iotops27/public_html/anaproject/adminpupil.php on line 397
+[28-Apr-2017 05:58:40 CST6CDT] PHP Notice:  Undefined variable: isActive in /home/iotops27/public_html/anaproject/adminpupil.php on line 397
+[28-Apr-2017 05:58:44 CST6CDT] PHP Notice:  Undefined variable: isActive in /home/iotops27/public_html/anaproject/adminpupil.php on line 397
+[28-Apr-2017 06:09:29 CST6CDT] PHP Notice:  Undefined variable: isActive in /home/iotops27/public_html/anaproject/adminpupil.php on line 397
+[28-Apr-2017 14:33:05 CST6CDT] PHP Notice:  Undefined variable: isActive in /home/iotops27/public_html/anaproject/adminpupil.php on line 397
+[28-Apr-2017 14:33:27 CST6CDT] PHP Notice:  Undefined variable: isActive in /home/iotops27/public_html/anaproject/adminpupil.php on line 397
+[28-Apr-2017 14:33:59 CST6CDT] PHP Notice:  Undefined variable: isActive in /home/iotops27/public_html/anaproject/adminpupil.php on line 397
+[28-Apr-2017 14:34:00 CST6CDT] PHP Notice:  Undefined variable: isActive in /home/iotops27/public_html/anaproject/adminpupil.php on line 397
+[28-Apr-2017 14:35:47 CST6CDT] PHP Notice:  Undefined variable: isActive in /home/iotops27/public_html/anaproject/adminpupil.php on line 397
+[28-Apr-2017 14:35:48 CST6CDT] PHP Notice:  Undefined variable: isActive in /home/iotops27/public_html/anaproject/adminpupil.php on line 397
+[28-Apr-2017 14:42:14 CST6CDT] PHP Notice:  Undefined variable: isActive in /home/iotops27/public_html/anaproject/adminpupil.php on line 397
+[28-Apr-2017 14:42:16 CST6CDT] PHP Notice:  Undefined variable: isActive in /home/iotops27/public_html/anaproject/adminpupil.php on line 397
+[28-Apr-2017 14:43:21 CST6CDT] PHP Notice:  Undefined variable: isActive in /home/iotops27/public_html/anaproject/adminpupil.php on line 397
+[28-Apr-2017 14:44:26 CST6CDT] PHP Notice:  Undefined variable: isActive in /home/iotops27/public_html/anaproject/adminpupil.php on line 397
+[28-Apr-2017 14:44:28 CST6CDT] PHP Notice:  Undefined variable: isActive in /home/iotops27/public_html/anaproject/adminpupil.php on line 397
+[29-Apr-2017 06:36:50 CST6CDT] PHP Notice:  Undefined variable: a_firstname in /home/iotops27/public_html/anaproject/admin1.php on line 231
+[29-Apr-2017 06:36:50 CST6CDT] PHP Notice:  Undefined variable: a_lastname in /home/iotops27/public_html/anaproject/admin1.php on line 235
+[29-Apr-2017 06:36:50 CST6CDT] PHP Notice:  Undefined variable: a_username in /home/iotops27/public_html/anaproject/admin1.php on line 239
+[29-Apr-2017 06:36:50 CST6CDT] PHP Notice:  Undefined variable: a_password in /home/iotops27/public_html/anaproject/admin1.php on line 243
+[29-Apr-2017 06:36:53 CST6CDT] PHP Notice:  Undefined variable: a_firstname in /home/iotops27/public_html/anaproject/admin1.php on line 231
+[29-Apr-2017 06:36:53 CST6CDT] PHP Notice:  Undefined variable: a_lastname in /home/iotops27/public_html/anaproject/admin1.php on line 235
+[29-Apr-2017 06:36:53 CST6CDT] PHP Notice:  Undefined variable: a_username in /home/iotops27/public_html/anaproject/admin1.php on line 239
+[29-Apr-2017 06:36:53 CST6CDT] PHP Notice:  Undefined variable: a_password in /home/iotops27/public_html/anaproject/admin1.php on line 243
+[29-Apr-2017 07:42:08 CST6CDT] PHP Parse error:  syntax error, unexpected '<' in /home/iotops27/public_html/anaproject/reports.php on line 7
+[29-Apr-2017 07:58:29 CST6CDT] PHP Notice:  Undefined index: ReportDate in /home/iotops27/public_html/anaproject/report.php on line 6
+[29-Apr-2017 07:58:29 CST6CDT] PHP Fatal error:  Call to undefined method PDOStatement::close() in /home/iotops27/public_html/anaproject/report.php on line 22
+[30-Apr-2017 12:26:39 CST6CDT] PHP Notice:  Undefined index: ReportDate in /home/iotops27/public_html/anaproject/report.php on line 6
+[30-Apr-2017 12:26:39 CST6CDT] PHP Fatal error:  Call to undefined method PDOStatement::close() in /home/iotops27/public_html/anaproject/report.php on line 22
+[30-Apr-2017 12:28:33 CST6CDT] PHP Notice:  Undefined index: ReportDate in /home/iotops27/public_html/anaproject/report.php on line 6
+[30-Apr-2017 12:28:33 CST6CDT] PHP Fatal error:  Call to undefined method PDOStatement::close() in /home/iotops27/public_html/anaproject/report.php on line 22
+[30-Apr-2017 13:20:53 CST6CDT] PHP Notice:  Undefined index: ReportDate in /home/iotops27/public_html/anaproject/report.php on line 6
+[30-Apr-2017 13:20:53 CST6CDT] PHP Fatal error:  Call to undefined method PDOStatement::close() in /home/iotops27/public_html/anaproject/report.php on line 22
+[30-Apr-2017 16:25:14 CST6CDT] PHP Fatal error:  Undefined class constant 'PARAM_DATE' in /home/iotops27/public_html/anaproject/adminreport.php on line 20
+[02-May-2017 16:57:13 CST6CDT] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/iotops27/public_html/anaproject/includes/header1.php on line 5
+[03-May-2017 03:11:53 CST6CDT] PHP Parse error:  syntax error, unexpected 'users' (T_STRING), expecting ',' or ';' in /home/iotops27/public_html/anaproject/admin1.php on line 242
+[03-May-2017 14:11:52 CST6CDT] PHP Fatal error:  Call to undefined method PDOStatement::lastInsertId() in /home/iotops27/public_html/anaproject/adminpupil.php on line 63
+[04-May-2017 15:36:32 CST6CDT] PHP Parse error:  syntax error, unexpected '$actialid' (T_VARIABLE), expecting '(' in /home/iotops27/public_html/anaproject/classroom1.php on line 25
+[04-May-2017 15:37:10 CST6CDT] PHP Parse error:  syntax error, unexpected '$actualid' (T_VARIABLE), expecting '(' in /home/iotops27/public_html/anaproject/classroom1.php on line 25
+[04-May-2017 15:38:48 CST6CDT] PHP Parse error:  syntax error, unexpected '$actualid' (T_VARIABLE), expecting '(' in /home/iotops27/public_html/anaproject/classroom1.php on line 27
+[04-May-2017 15:38:51 CST6CDT] PHP Parse error:  syntax error, unexpected '$actualid' (T_VARIABLE), expecting '(' in /home/iotops27/public_html/anaproject/classroom1.php on line 27
+[04-May-2017 15:39:44 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/iotops27/public_html/anaproject/classroom1.php on line 32
+[04-May-2017 15:40:40 CST6CDT] PHP Fatal error:  Function name must be a string in /home/iotops27/public_html/anaproject/classroom1.php on line 123
+[04-May-2017 15:41:30 CST6CDT] PHP Fatal error:  Function name must be a string in /home/iotops27/public_html/anaproject/classroom1.php on line 123
+[04-May-2017 16:08:17 CST6CDT] PHP Fatal error:  Undefined class constant 'PARAM_CHAR' in /home/iotops27/public_html/anaproject/classroom1.php on line 41
+[07-May-2017 08:59:55 CST6CDT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/iotops27/public_html/anaproject/login.php on line 40
+[07-May-2017 10:23:32 CST6CDT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/iotops27/public_html/anaproject/login.php:7) in /home/iotops27/public_html/anaproject/login.php on line 12
+[07-May-2017 10:28:18 CST6CDT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/iotops27/public_html/anaproject/login.php:7) in /home/iotops27/public_html/anaproject/login.php on line 12
